@@ -1,1 +1,1 @@
-# ybwelcomebot
+# welcome-bot
