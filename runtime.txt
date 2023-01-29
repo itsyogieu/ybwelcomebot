@@ -1,1 +1,2 @@
-python-3.9.6
+gunicorn app:app & python3 bot.py
+
